@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://twitterxdownload.com/images/logo.png" alt="TwitterXDownload" width="80" height="80">
-  <h1>TwitterXDownload</h1>
+  <img src="https://twitterxdownload.com/images/logo.png" alt="XDownloader" width="80" height="80">
+  <h1>XDownloader</h1>
 </div>
 
 
